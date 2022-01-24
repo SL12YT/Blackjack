@@ -82,3 +82,4 @@ while True:
     if ask == 'n':
         print('Thanks for playing :)')
         exit()
+    game.player = []
